@@ -62,4 +62,4 @@ The VEL (Voluntary Enterprise License) framework, including all templates, examp
 
 The authors and contributors of this repository are not lawyers, and the use of this framework does not create an attorney-client relationship. You are solely responsible for your use of these templates. It is strongly recommended that you consult with a qualified legal professional before applying these licenses to your software to ensure they meet your specific legal, compliance, and business requirements.
 
-To the maximum extent permitted by applicable law, the authors and contributors disclaim all liability for any direct, indirect, incidental, or consequential damages, or any legal disputes, arising out of or in connection with the use, modification, or distribution of this framework. **Use at your own risk.**s
+To the maximum extent permitted by applicable law, the authors and contributors disclaim all liability for any direct, indirect, incidental, or consequential damages, or any legal disputes, arising out of or in connection with the use, modification, or distribution of this framework. **Use at your own risk.**
