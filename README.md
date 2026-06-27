@@ -58,7 +58,7 @@ We recommend listing names and logos in `BACKER.md`. This is because listing all
 
 ## Get Started
 1. Copy the template above into your repository as `LICENSE` or `LICENSE.md`.
-2. Inject your preferred open-source base license into `{uncommercial-license-name}` (MIT, Apache 2.0, BSD, etc.) (already in `apache-v2-with-vel-effortless.md` and `mit-with-vel-effortless.md`.)
+2. Inject your preferred open-source base license into `{uncommercial-license-name}` (MIT, Apache 2.0, BSD, etc.) (already in `apache-v2-with-vel-effortless.md`, `mit-with-vel-effortless.md`, `2-clause-bsd-with-vel-effortless.md` and `3-clause-bsd-with-vel-effortless.md`.)
 3. Define you own price, period, and unique `{original-guarantee}` (`{original-guarantee}` is not required)
 
 ### ⚠️ Important Notice for `vel-with-warranty-and-liability-provisions-removed`
