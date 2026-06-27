@@ -1,0 +1,2 @@
+How to Acquire the Commercial Support License
+To opt for the Commercial Support License, please issue payment via [Your Payment Platform Link (e.g., GitHub Sponsors / Patreon / Stripe)] or contact us directly at your-email@example.com for custom invoicing.
